@@ -1,0 +1,6 @@
+C:\Users\daguirre\source\repos\SchoolDistrictTracker\SchoolDistrictTracker.Database\bin\Debug\SchoolDistrictTracker.Database.dacpac
+C:\Users\daguirre\source\repos\SchoolDistrictTracker\SchoolDistrictTracker.Database\bin\Debug\SchoolDistrictTracker.Database.dll
+C:\Users\daguirre\source\repos\SchoolDistrictTracker\SchoolDistrictTracker.Database\bin\Debug\SchoolDistrictTracker.Database.pdb
+C:\Users\daguirre\source\repos\SchoolDistrictTracker\SchoolDistrictTracker.Database\obj\Debug\SchoolDistrictTracker.Database.sqlproj.AssemblyReference.cache
+C:\Users\daguirre\source\repos\SchoolDistrictTracker\SchoolDistrictTracker.Database\obj\Debug\SchoolDistrictTracker.Database.dll
+C:\Users\daguirre\source\repos\SchoolDistrictTracker\SchoolDistrictTracker.Database\obj\Debug\SchoolDistrictTracker.Database.pdb
